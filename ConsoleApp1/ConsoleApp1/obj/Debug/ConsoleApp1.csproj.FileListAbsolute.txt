@@ -1,0 +1,7 @@
+E:\Phase 2\Practise Project Sec 6_Last_Date_28_Nov\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Phase 2\Practise Project Sec 6_Last_Date_28_Nov\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Phase 2\Practise Project Sec 6_Last_Date_28_Nov\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Phase 2\Practise Project Sec 6_Last_Date_28_Nov\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Phase 2\Practise Project Sec 6_Last_Date_28_Nov\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Phase 2\Practise Project Sec 6_Last_Date_28_Nov\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Phase 2\Practise Project Sec 6_Last_Date_28_Nov\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
